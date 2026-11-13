@@ -1,0 +1,818 @@
+[
+  {
+    "id": "luna-9",
+    "name": "Luna 9",
+    "operator": "Programa espacial soviético",
+    "country": "URSS",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "1966-02-03T18:45:30Z",
+    "timePrecision": "segundo",
+    "lat": 7.13,
+    "lon": -64.37,
+    "coordPrecision": "nominal",
+    "site": "Océano de las Tormentas",
+    "summary": "Primer aterrizaje suave en la Luna y primeras fotos tomadas desde su superficie.",
+    "sources": [
+      {
+        "label": "Wikipedia: Luna 9",
+        "url": "https://en.wikipedia.org/wiki/Luna_9"
+      }
+    ]
+  },
+  {
+    "id": "surveyor-1",
+    "name": "Surveyor 1",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "1966-06-02T06:17:36Z",
+    "timePrecision": "segundo",
+    "lat": -2.4745,
+    "lon": -43.3398,
+    "coordPrecision": "lro",
+    "site": "Océano de las Tormentas, cerca del cráter Flamsteed",
+    "summary": "Primer aterrizaje suave de Estados Unidos; envió más de 11.000 imágenes.",
+    "sources": [
+      {
+        "label": "NSSDCA Master Catalog (1966-045A)",
+        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1966-045A"
+      }
+    ]
+  },
+  {
+    "id": "luna-13",
+    "name": "Luna 13",
+    "operator": "Programa espacial soviético",
+    "country": "URSS",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "1966-12-24T18:04:00Z",
+    "timePrecision": "minuto",
+    "lat": 18.87,
+    "lon": -62.05,
+    "coordPrecision": "nominal",
+    "site": "Océano de las Tormentas",
+    "summary": "Midió la densidad y la radiactividad del suelo lunar.",
+    "sources": [
+      {
+        "label": "Wikipedia: Luna 13",
+        "url": "https://en.wikipedia.org/wiki/Luna_13"
+      }
+    ]
+  },
+  {
+    "id": "surveyor-3",
+    "name": "Surveyor 3",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "1967-04-20T00:04:53Z",
+    "timePrecision": "segundo",
+    "lat": -3.0162,
+    "lon": -23.418,
+    "coordPrecision": "lro",
+    "site": "Océano de las Tormentas",
+    "summary": "Excavó el suelo con una pala. En 1969 el Apolo 12 bajó a su lado y trajo piezas a la Tierra.",
+    "sources": [
+      {
+        "label": "NSSDCA Master Catalog (1967-035A)",
+        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-035A"
+      }
+    ]
+  },
+  {
+    "id": "surveyor-5",
+    "name": "Surveyor 5",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "1967-09-11T00:46:44Z",
+    "timePrecision": "segundo",
+    "lat": 1.4551,
+    "lon": 23.1943,
+    "coordPrecision": "lro",
+    "site": "Mar de la Tranquilidad",
+    "summary": "Hizo el primer análisis químico del suelo lunar en el lugar.",
+    "sources": [
+      {
+        "label": "NSSDCA Master Catalog (1967-084A)",
+        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-084A"
+      }
+    ]
+  },
+  {
+    "id": "surveyor-6",
+    "name": "Surveyor 6",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "1967-11-10T01:01:06Z",
+    "timePrecision": "segundo",
+    "lat": 0.4742,
+    "lon": -1.4275,
+    "coordPrecision": "lro",
+    "site": "Sinus Medii, en el centro de la cara visible",
+    "summary": "Encendió sus motores, se elevó unos metros y volvió a posarse: el primer despegue desde la Luna.",
+    "sources": [
+      {
+        "label": "NSSDCA Master Catalog (1967-112A)",
+        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1967-112A"
+      }
+    ]
+  },
+  {
+    "id": "surveyor-7",
+    "name": "Surveyor 7",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "1968-01-10T01:05:36Z",
+    "timePrecision": "segundo",
+    "lat": -40.9812,
+    "lon": -11.5127,
+    "coordPrecision": "lro",
+    "site": "Tierras altas junto al cráter Tycho",
+    "summary": "El único Surveyor que bajó en las tierras altas, lejos de los mares lisos.",
+    "sources": [
+      {
+        "label": "NSSDCA Master Catalog (1968-001A)",
+        "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1968-001A"
+      }
+    ]
+  },
+  {
+    "id": "apolo-11",
+    "name": "Apolo 11",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": true,
+    "rover": false,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "1969-07-20T20:17:40Z",
+    "timePrecision": "segundo",
+    "lat": 0.67416,
+    "lon": 23.47314,
+    "coordPrecision": "lro",
+    "site": "Mar de la Tranquilidad",
+    "summary": "Neil Armstrong y Buzz Aldrin fueron los primeros humanos en caminar sobre la Luna.",
+    "sources": [
+      {
+        "label": "NSSDCA: coordenadas de los sitios Apollo (Wagner et al. 2017, LRO)",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html"
+      },
+      {
+        "label": "Wikipedia: Apollo 11",
+        "url": "https://en.wikipedia.org/wiki/Apollo_11"
+      }
+    ]
+  },
+  {
+    "id": "apolo-12",
+    "name": "Apolo 12",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": true,
+    "rover": false,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "1969-11-19T06:54:35Z",
+    "timePrecision": "segundo",
+    "lat": -3.0128,
+    "lon": -23.4219,
+    "coordPrecision": "lro",
+    "site": "Océano de las Tormentas",
+    "summary": "Alunizaje de precisión a unos 180 metros de la sonda Surveyor 3.",
+    "sources": [
+      {
+        "label": "NSSDCA: coordenadas de los sitios Apollo (Wagner et al. 2017, LRO)",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html"
+      },
+      {
+        "label": "Wikipedia: Apollo 12",
+        "url": "https://en.wikipedia.org/wiki/Apollo_12"
+      }
+    ]
+  },
+  {
+    "id": "luna-16",
+    "name": "Luna 16",
+    "operator": "Programa espacial soviético",
+    "country": "URSS",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "1970-09-20T05:18:00Z",
+    "timePrecision": "minuto",
+    "lat": -0.5137,
+    "lon": 56.3638,
+    "coordPrecision": "lro",
+    "site": "Mar de la Fecundidad",
+    "summary": "Primera sonda robótica que trajo muestras lunares a la Tierra: 101 gramos.",
+    "sources": [
+      {
+        "label": "Wikipedia: Luna 16",
+        "url": "https://en.wikipedia.org/wiki/Luna_16"
+      }
+    ]
+  },
+  {
+    "id": "luna-17",
+    "name": "Luna 17",
+    "operator": "Programa espacial soviético",
+    "country": "URSS",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "1970-11-17T03:46:50Z",
+    "timePrecision": "segundo",
+    "lat": 38.28,
+    "lon": -35.0,
+    "coordPrecision": "nominal",
+    "site": "Mar de las Lluvias",
+    "summary": "Llevó el Lunojod 1, el primer vehículo con ruedas que recorrió otro mundo.",
+    "sources": [
+      {
+        "label": "Wikipedia: Luna 17",
+        "url": "https://en.wikipedia.org/wiki/Luna_17"
+      }
+    ]
+  },
+  {
+    "id": "apolo-14",
+    "name": "Apolo 14",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": true,
+    "rover": false,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "1971-02-05T09:18:11Z",
+    "timePrecision": "segundo",
+    "lat": -3.64589,
+    "lon": -17.47194,
+    "coordPrecision": "lro",
+    "site": "Formación Fra Mauro",
+    "summary": "Alan Shepard, el primer estadounidense en el espacio, caminó sobre la Luna diez años después.",
+    "sources": [
+      {
+        "label": "NSSDCA: coordenadas de los sitios Apollo (Wagner et al. 2017, LRO)",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html"
+      },
+      {
+        "label": "Wikipedia: Apollo 14",
+        "url": "https://en.wikipedia.org/wiki/Apollo_14"
+      }
+    ]
+  },
+  {
+    "id": "apolo-15",
+    "name": "Apolo 15",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": true,
+    "rover": true,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "1971-07-30T22:16:29Z",
+    "timePrecision": "segundo",
+    "lat": 26.13239,
+    "lon": 3.6333,
+    "coordPrecision": "lro",
+    "site": "Hadley–Apeninos",
+    "summary": "Primera misión con un vehículo lunar conducido por astronautas.",
+    "sources": [
+      {
+        "label": "NSSDCA: coordenadas de los sitios Apollo (Wagner et al. 2017, LRO)",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html"
+      },
+      {
+        "label": "Wikipedia: Apollo 15",
+        "url": "https://en.wikipedia.org/wiki/Apollo_15"
+      }
+    ]
+  },
+  {
+    "id": "luna-20",
+    "name": "Luna 20",
+    "operator": "Programa espacial soviético",
+    "country": "URSS",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "1972-02-21T19:19:00Z",
+    "timePrecision": "minuto",
+    "lat": 3.7863,
+    "lon": 56.6242,
+    "coordPrecision": "lro",
+    "site": "Tierras altas de Apolonio",
+    "summary": "Trajo 55 gramos de muestras de las tierras altas.",
+    "sources": [
+      {
+        "label": "Wikipedia: Luna 20",
+        "url": "https://en.wikipedia.org/wiki/Luna_20"
+      }
+    ]
+  },
+  {
+    "id": "apolo-16",
+    "name": "Apolo 16",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": true,
+    "rover": true,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "1972-04-21T02:23:35Z",
+    "timePrecision": "segundo",
+    "lat": -8.9734,
+    "lon": 15.5011,
+    "coordPrecision": "lro",
+    "site": "Tierras altas de Descartes",
+    "summary": "Primera exploración tripulada de las tierras altas centrales.",
+    "sources": [
+      {
+        "label": "NSSDCA: coordenadas de los sitios Apollo (Wagner et al. 2017, LRO)",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html"
+      },
+      {
+        "label": "Wikipedia: Apollo 16",
+        "url": "https://en.wikipedia.org/wiki/Apollo_16"
+      }
+    ]
+  },
+  {
+    "id": "apolo-17",
+    "name": "Apolo 17",
+    "operator": "NASA",
+    "country": "Estados Unidos",
+    "operatorType": "estatal",
+    "crewed": true,
+    "rover": true,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "1972-12-11T19:54:58Z",
+    "timePrecision": "segundo",
+    "lat": 20.1911,
+    "lon": 30.7723,
+    "coordPrecision": "lro",
+    "site": "Valle Taurus–Littrow",
+    "summary": "La última misión tripulada que alunizó. Llevó al primer geólogo a la Luna.",
+    "sources": [
+      {
+        "label": "NSSDCA: coordenadas de los sitios Apollo (Wagner et al. 2017, LRO)",
+        "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunar_sites.html"
+      },
+      {
+        "label": "Wikipedia: Apollo 17",
+        "url": "https://en.wikipedia.org/wiki/Apollo_17"
+      }
+    ]
+  },
+  {
+    "id": "luna-21",
+    "name": "Luna 21",
+    "operator": "Programa espacial soviético",
+    "country": "URSS",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "1973-01-15T12:00:00Z",
+    "timePrecision": "dia",
+    "lat": 25.85,
+    "lon": 30.45,
+    "coordPrecision": "nominal",
+    "site": "Cráter Le Monnier",
+    "summary": "Su rover Lunojod 2 recorrió decenas de kilómetros, un récord que duró más de 40 años.",
+    "sources": [
+      {
+        "label": "Wikipedia: Luna 21",
+        "url": "https://en.wikipedia.org/wiki/Luna_21"
+      }
+    ]
+  },
+  {
+    "id": "luna-23",
+    "name": "Luna 23",
+    "operator": "Programa espacial soviético",
+    "country": "URSS",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "parcial",
+    "landedAt": "1974-11-06T12:00:00Z",
+    "timePrecision": "dia",
+    "lat": 12.6669,
+    "lon": 62.1511,
+    "coordPrecision": "lro",
+    "site": "Mar de las Crisis",
+    "summary": "Se dañó al alunizar y no pudo perforar ni traer muestras.",
+    "sources": [
+      {
+        "label": "Wikipedia: Luna 23",
+        "url": "https://en.wikipedia.org/wiki/Luna_23"
+      }
+    ]
+  },
+  {
+    "id": "luna-24",
+    "name": "Luna 24",
+    "operator": "Programa espacial soviético",
+    "country": "URSS",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "1976-08-18T06:36:00Z",
+    "timePrecision": "minuto",
+    "lat": 12.7145,
+    "lon": 62.2097,
+    "coordPrecision": "lro",
+    "site": "Mar de las Crisis",
+    "summary": "Trajo 170 gramos de muestras. Después de ella no hubo alunizajes durante 37 años.",
+    "sources": [
+      {
+        "label": "Wikipedia: Luna 24",
+        "url": "https://en.wikipedia.org/wiki/Luna_24"
+      }
+    ]
+  },
+  {
+    "id": "change-3",
+    "name": "Chang'e 3",
+    "operator": "CNSA",
+    "country": "China",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "2013-12-14T13:11:00Z",
+    "timePrecision": "minuto",
+    "lat": 44.1214,
+    "lon": -19.5116,
+    "coordPrecision": "lro",
+    "site": "Mar de las Lluvias",
+    "summary": "Primer alunizaje de China. Llevó el rover Yutu.",
+    "sources": [
+      {
+        "label": "Wikipedia: Chang'e 3",
+        "url": "https://en.wikipedia.org/wiki/Chang'e_3"
+      }
+    ]
+  },
+  {
+    "id": "change-4",
+    "name": "Chang'e 4",
+    "operator": "CNSA",
+    "country": "China",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "2019-01-03T02:26:00Z",
+    "timePrecision": "minuto",
+    "lat": -45.4446,
+    "lon": 177.5991,
+    "coordPrecision": "lro",
+    "site": "Cráter Von Kármán, cara oculta",
+    "summary": "Primer alunizaje en la cara oculta. Se comunicó con la Tierra a través del satélite Queqiao.",
+    "sources": [
+      {
+        "label": "Wikipedia: Chang'e 4",
+        "url": "https://en.wikipedia.org/wiki/Chang'e_4"
+      }
+    ]
+  },
+  {
+    "id": "change-5",
+    "name": "Chang'e 5",
+    "operator": "CNSA",
+    "country": "China",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "2020-12-01T15:11:00Z",
+    "timePrecision": "minuto",
+    "lat": 43.0576,
+    "lon": -51.9161,
+    "coordPrecision": "lro",
+    "site": "Mons Rümker, Océano de las Tormentas",
+    "summary": "Trajo 1,7 kg de rocas volcánicas mucho más jóvenes que las del programa Apolo.",
+    "sources": [
+      {
+        "label": "Wikipedia: Chang'e 5",
+        "url": "https://en.wikipedia.org/wiki/Chang'e_5"
+      }
+    ]
+  },
+  {
+    "id": "chandrayaan-3",
+    "name": "Chandrayaan-3",
+    "operator": "ISRO",
+    "country": "India",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "2023-08-23T12:33:00Z",
+    "timePrecision": "minuto",
+    "lat": -69.373,
+    "lon": 32.319,
+    "coordPrecision": "lro",
+    "site": "Región del polo sur (punto Shiv Shakti)",
+    "summary": "India alunizó más cerca del polo sur que cualquier misión anterior y operó el rover Pragyan.",
+    "sources": [
+      {
+        "label": "Wikipedia: Chandrayaan-3",
+        "url": "https://en.wikipedia.org/wiki/Chandrayaan-3"
+      }
+    ]
+  },
+  {
+    "id": "slim",
+    "name": "SLIM",
+    "operator": "JAXA",
+    "country": "Japón",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": false,
+    "outcome": "parcial",
+    "landedAt": "2024-01-19T15:20:00Z",
+    "timePrecision": "minuto",
+    "lat": -13.316,
+    "lon": 25.251,
+    "coordPrecision": "lro",
+    "site": "Junto al cráter Shioli",
+    "summary": "Alunizó a unos 55 metros de su objetivo, pero quedó boca abajo.",
+    "sources": [
+      {
+        "label": "Wikipedia: Smart Lander for Investigating Moon",
+        "url": "https://en.wikipedia.org/wiki/Smart_Lander_for_Investigating_Moon"
+      }
+    ]
+  },
+  {
+    "id": "im-1",
+    "name": "IM-1 Odysseus",
+    "operator": "Intuitive Machines",
+    "country": "Estados Unidos",
+    "operatorType": "privada",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "parcial",
+    "landedAt": "2024-02-22T23:23:53Z",
+    "timePrecision": "segundo",
+    "lat": -80.13,
+    "lon": 1.44,
+    "coordPrecision": "lro",
+    "site": "Cráter Malapert A, región del polo sur",
+    "summary": "Primer alunizaje de una empresa privada y el primero de Estados Unidos desde 1972. Quedó volcado.",
+    "sources": [
+      {
+        "label": "Wikipedia: IM-1",
+        "url": "https://en.wikipedia.org/wiki/IM-1"
+      }
+    ]
+  },
+  {
+    "id": "change-6",
+    "name": "Chang'e 6",
+    "operator": "CNSA",
+    "country": "China",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": true,
+    "outcome": "exito",
+    "landedAt": "2024-06-01T22:23:16Z",
+    "timePrecision": "segundo",
+    "lat": -41.6385,
+    "lon": -153.9852,
+    "coordPrecision": "lro",
+    "site": "Cuenca Apolo, cara oculta",
+    "summary": "Trajo las primeras muestras de la cara oculta: 1,9 kg.",
+    "sources": [
+      {
+        "label": "Wikipedia: Chang'e 6",
+        "url": "https://en.wikipedia.org/wiki/Chang'e_6"
+      }
+    ]
+  },
+  {
+    "id": "blue-ghost-1",
+    "name": "Blue Ghost M1",
+    "operator": "Firefly Aerospace",
+    "country": "Estados Unidos",
+    "operatorType": "privada",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "exito",
+    "landedAt": "2025-03-02T08:34:00Z",
+    "timePrecision": "minuto",
+    "lat": 18.5623,
+    "lon": 61.8103,
+    "coordPrecision": "lro",
+    "site": "Mar de las Crisis, cerca de Mons Latreille",
+    "summary": "Primer alunizaje privado sin fallas. Operó durante todo un día lunar.",
+    "sources": [
+      {
+        "label": "Wikipedia: Blue Ghost Mission 1",
+        "url": "https://en.wikipedia.org/wiki/Blue_Ghost_Mission_1"
+      }
+    ]
+  },
+  {
+    "id": "im-2",
+    "name": "IM-2 Athena",
+    "operator": "Intuitive Machines",
+    "country": "Estados Unidos",
+    "operatorType": "privada",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "parcial",
+    "landedAt": "2025-03-06T17:28:50Z",
+    "timePrecision": "segundo",
+    "lat": -84.7906,
+    "lon": 29.1957,
+    "coordPrecision": "lro",
+    "site": "Mons Mouton, región del polo sur",
+    "summary": "El alunizaje más cercano al polo sur hasta ahora, aunque el módulo terminó volcado.",
+    "sources": [
+      {
+        "label": "Wikipedia: IM-2",
+        "url": "https://en.wikipedia.org/wiki/IM-2"
+      }
+    ]
+  },
+  {
+    "id": "beresheet",
+    "name": "Beresheet",
+    "operator": "SpaceIL",
+    "country": "Israel",
+    "operatorType": "privada",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "fallida",
+    "landedAt": "2019-04-11T12:00:00Z",
+    "timePrecision": "dia",
+    "lat": 32.5956,
+    "lon": 19.3496,
+    "coordPrecision": "lro",
+    "site": "Mar de la Serenidad",
+    "summary": "Primer intento privado de alunizaje. Se estrelló tras una falla durante el descenso.",
+    "sources": [
+      {
+        "label": "Wikipedia: Beresheet",
+        "url": "https://en.wikipedia.org/wiki/Beresheet"
+      }
+    ]
+  },
+  {
+    "id": "vikram",
+    "name": "Vikram (Chandrayaan-2)",
+    "operator": "ISRO",
+    "country": "India",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": false,
+    "outcome": "fallida",
+    "landedAt": "2019-09-06T20:23:00Z",
+    "timePrecision": "minuto",
+    "lat": -70.881,
+    "lon": 22.784,
+    "coordPrecision": "lro",
+    "site": "Región del polo sur",
+    "summary": "El módulo perdió el control en los últimos kilómetros del descenso.",
+    "sources": [
+      {
+        "label": "Wikipedia: Chandrayaan-2",
+        "url": "https://en.wikipedia.org/wiki/Chandrayaan-2"
+      }
+    ]
+  },
+  {
+    "id": "hakuto-r-1",
+    "name": "Hakuto-R M1",
+    "operator": "ispace",
+    "country": "Japón",
+    "operatorType": "privada",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": false,
+    "outcome": "fallida",
+    "landedAt": "2023-04-25T16:40:00Z",
+    "timePrecision": "minuto",
+    "lat": 47.581,
+    "lon": 44.094,
+    "coordPrecision": "lro",
+    "site": "Cráter Atlas",
+    "summary": "Calculó mal su altura, se quedó sin combustible y cayó.",
+    "sources": [
+      {
+        "label": "Wikipedia: Hakuto-R Mission 1",
+        "url": "https://en.wikipedia.org/wiki/Hakuto-R_Mission_1"
+      }
+    ]
+  },
+  {
+    "id": "luna-25",
+    "name": "Luna 25",
+    "operator": "Roscosmos",
+    "country": "Rusia",
+    "operatorType": "estatal",
+    "crewed": false,
+    "rover": false,
+    "sampleReturn": false,
+    "outcome": "fallida",
+    "landedAt": "2023-08-19T11:57:00Z",
+    "timePrecision": "minuto",
+    "lat": -57.865,
+    "lon": 61.36,
+    "coordPrecision": "lro",
+    "site": "Cerca del cráter Pontécoulant",
+    "summary": "Primera misión rusa a la Luna en 47 años. Una maniobra fallida en órbita la hizo estrellarse.",
+    "sources": [
+      {
+        "label": "Wikipedia: Luna 25",
+        "url": "https://en.wikipedia.org/wiki/Luna_25"
+      }
+    ]
+  },
+  {
+    "id": "hakuto-r-2",
+    "name": "Hakuto-R M2 Resilience",
+    "operator": "ispace",
+    "country": "Japón",
+    "operatorType": "privada",
+    "crewed": false,
+    "rover": true,
+    "sampleReturn": false,
+    "outcome": "fallida",
+    "landedAt": "2025-06-05T12:00:00Z",
+    "timePrecision": "dia",
+    "lat": 60.4445,
+    "lon": -4.588,
+    "coordPrecision": "lro",
+    "site": "Mar del Frío",
+    "summary": "Su sensor láser tardó en medir la altura y el módulo chocó contra la superficie.",
+    "sources": [
+      {
+        "label": "Wikipedia: Hakuto-R Mission 2",
+        "url": "https://en.wikipedia.org/wiki/Hakuto-R_Mission_2"
+      }
+    ]
+  }
+]
